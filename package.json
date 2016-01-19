@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/jianglibo/gulp-learning/issues"
   },
-  "homepage": "https://github.com/jianglibo/gulp-learning#readme"
+  "homepage": "https://github.com/jianglibo/gulp-learning#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
 }
