@@ -1,0 +1,22 @@
+{
+  "name": "gulp-learning",
+  "version": "1.0.0",
+  "description": "gulp learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jianglibo/gulp-learning.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "jianglibo <jianglibo@gmail.com> (http://www.m3958.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jianglibo/gulp-learning/issues"
+  },
+  "homepage": "https://github.com/jianglibo/gulp-learning#readme"
+}
