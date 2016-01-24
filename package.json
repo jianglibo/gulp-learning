@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/jianglibo/gulp-learning#readme",
   "devDependencies": {
-    "gulp": "^3.9.0"
+    "browser-sync": "^2.11.1",
+    "chai": "^3.4.1",
+    "gulp": "^3.9.0",
+    "mocha": "^2.3.4"
   }
 }
